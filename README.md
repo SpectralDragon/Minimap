@@ -39,4 +39,4 @@ Minimap will automaticly hidden if responder will resign.
 
 ## How it's works?
 
-Minimap subscribe to canvas properties like `contentSize`, `contentOffset` and etc. and present new `UIMinimapHostWindow` for presenting minimap without adding like subview to your views.
+Minimap subscribe to canvas properties like `contentSize`, `contentOffset` and etc. and present new `MinimapHostWindow` for presenting minimap without adding like subview to your views.
